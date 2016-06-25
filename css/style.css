@@ -1,6 +1,13 @@
+.daily-bruin-link {
+  float: right;
+}
 .parallax-window {
     min-height: 1000px;
     height: auto;
     background: transparent;
     width: 100%;
+}
+
+.photo-credit {
+  float: right;
 }
