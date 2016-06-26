@@ -1,5 +1,18 @@
 .daily-bruin-link {
   float: right;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.jumbotron {
+  background-image: url('http://www.cutepetswelove.com/wp-content/uploads/2015/04/Lots-of-Hamsters.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  padding-top: 450px;
 }
 .parallax-window {
     min-height: 1000px;
