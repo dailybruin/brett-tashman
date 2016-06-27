@@ -46,6 +46,9 @@
   font-size: 18px;
 }
 
+.content a:hover {
+  color: #4682B4;
+}
 .page-credit {
   text-align: center;
 }
