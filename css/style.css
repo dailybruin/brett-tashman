@@ -7,14 +7,14 @@
 }
 
 .jumbotron {
-  background-image: url('../img/bball.jpg');
+  background-image: url('../img/child.jpg');
   background-size: cover;
   height: 100%;
 }
 
 .jumbotron h1 {
   text-align: center;
-  padding-top: 450px;
+  padding-top: 550px;
   color: white;
   font-family: 'Anton', sans-serif;
   text-transform: uppercase;
@@ -33,12 +33,12 @@
   font-size: 14px;
 }
 
-.content h3 {
-  font-family: 'Roboto', sans-serif;
+.content h5 {
+  font-family: 'Karma', serif;
 }
 
 .content p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Karma', serif;
   font-size: 18px;
 }
 
