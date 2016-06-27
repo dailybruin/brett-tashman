@@ -2,6 +2,8 @@
   float: right;
   margin-top: 10px;
   margin-right: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 }
 
 .jumbotron {
@@ -27,4 +29,19 @@
 
 .photo-credit {
   float: right;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.content h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.content p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.page-credit {
+  text-align: center;
 }
